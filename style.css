@@ -1,0 +1,21 @@
+.container{
+    text-align:center ;
+    width:auto;
+    height: auto;
+}
+.box{
+    background-color: rgb(42, 165, 58);
+    text-align: center;
+}
+h1{
+    color: rgb(65, 0, 139);
+}
+
+#counter{
+    font-size: 15rem;
+    color: darkslategrey;
+}
+.background{
+    background-color: #1e92ff;
+
+}
